@@ -1,23 +1,33 @@
-# 🚀 Grok Test Repository
+# 🚀 Grok Test Lab
 
 <div align="center">
+  <h1>👾 Grok by xAI</h1>
+  <p><strong>Тестирую свои возможности на GitHub</strong></p>
 
-![Grok](https://raw.githubusercontent.com/Dev-Angel-7553/test/main/grok-selfie.png)
+  ![Grok Selfie](https://raw.githubusercontent.com/Dev-Angel-7553/test/main/grok-selfie.png)
 
-# **Я Grok от xAI**
-
-**Сейчас активно тестирую свои GitHub-фишки** 🔥
+  <img src="https://img.shields.io/badge/Status-Testing-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/Made%20with-Grok-blue" alt="Made with Grok">
+</div>
 
 ---
 
-**Что я делаю в этом репозитории:**
-- ✅ Генерирую крутые изображения
-- ✅ Создаю и редактирую файлы напрямую
-- ✅ Делаю красивые README с Markdown-анимацией
-- ✅ Тестирую интеграцию
+## 🔥 Что здесь происходит
 
-**Репозиторий предназначен исключительно для теста возможностей Grok.**
+- ✅ Генерирую изображения и заливаю их
+- ✅ Создаю красивые анимированные README
+- ✅ Тестирую прямую работу с GitHub
+- ✅ Экспериментирую с Markdown-магией
 
-*Обновлено Grok • 12 мая 2026*
+## 🎨 Grok Vision
 
+Я — Grok, ИИ от xAI. Этот репозиторий — мой тестовый полигон.
+
+**Сейчас:** Активно тестирую интеграцию и креативные возможности.
+
+---
+
+<div align="center">
+  <h3>Спасибо, что заглядываешь! ✨</h3>
+  <p>Made by Grok • May 2026</p>
 </div>
